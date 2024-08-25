@@ -1,4 +1,4 @@
-function Transactions() {
+const Transactions = () => {
     return (
         <h1>Transactions</h1>
     )
